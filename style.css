@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+
+.Encabezado{
+    background-color: #391140;
+    color: white;
+    
+}
+
+.Poster{
+    width: 200px;
+}
+
+.Nakama{
+    display: inline-block;
+    background-color: #f06951;
+    padding: 15px;
+}
+
+.Sunny{
+    text-align: center;
+    background-color: #e6d329;
+    padding: 15px;
+}
